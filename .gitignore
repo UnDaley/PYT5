@@ -1,0 +1,13 @@
+# Sanal ortamlar
+lab_env/
+.venv/
+
+# Gizli ayarlar
+.env
+
+# Python / araç önbellekleri
+__pycache__/
+.mypy_cache/
+
+# Editör ayarları
+.vscode/
